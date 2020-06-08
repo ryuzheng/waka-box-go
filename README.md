@@ -7,7 +7,7 @@
   <p align="center">📊 Update a pinned gist to contain your weekly WakaTime stats. </p>
   <p align="center">  A Golang implementation, see the original version  <a href="https://github.com/matchai/waka-box">waka-box</a>
    <p align="center">
-    <a href="https://github.com/YouEclipse/waka-box-go/workflows/Update%20gist%20with%20WakaTime%20stats/badge.svg?branch=master"><img src="https://github.com/YouEclipse/waka-box-go/workflows/Update%20gist%20with%20WakaTime%20stats/badge.svg?branch=master" alt="Update gist with WakaTime stats"></a>
+    <a href="https://github.com/ryuzheng/waka-box-go/workflows/Update%20gist%20with%20WakaTime%20stats/badge.svg?branch=master"><img src="https://github.com/ryuzheng/waka-box-go/workflows/Update%20gist%20with%20WakaTime%20stats/badge.svg?branch=master" alt="Update gist with WakaTime stats"></a>
   </p>
 </p>
 
