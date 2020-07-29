@@ -6,7 +6,7 @@
   <p align="center">📊 将你的 WakaTime 每周统计更新在  pined gist / profile README  </p>
   <p align="center">  Golang 实现，查看原始版本  <a href="https://github.com/matchai/waka-box">waka-box</a>
   <p align="center">
-    <a href="https://github.com/YouEclipse/waka-box-go/workflows/Update%20gist%20with%20WakaTime%20stats/badge.svg?branch=master"><img src="https://github.com/YouEclipse/waka-box-go/workflows/Update%20gist%20with%20WakaTime%20stats/badge.svg?branch=master" alt="Update gist with WakaTime stats"></a>
+    <a href="https://github.com/ryuzheng/waka-box-go/workflows/Update%20gist%20with%20WakaTime%20stats/badge.svg?branch=master"><img src="https://github.com/ryuzheng/waka-box-go/workflows/Update%20gist%20with%20WakaTime%20stats/badge.svg?branch=master" alt="Update gist with WakaTime stats"></a>
   </p>
 </p>
 
